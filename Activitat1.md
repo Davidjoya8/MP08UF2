@@ -27,5 +27,5 @@ Després he triat aquest disc dur de 2,5 TB de memoria que a calitat preu està 
 
 Per determinar qui és l’administrador i l'usuari hem de crear la carpeta, document o unitat i compartir-ho, posarem els correus dels usuaris i determinarem els permisos.
 
-[![N|Solid](3.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](5.png)](https://nodesource.com/products/nsolid)
 
