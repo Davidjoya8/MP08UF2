@@ -18,4 +18,4 @@ Investigant una miqueta m’hos hem donat compte que la millor opció el suscrib
 #### Subscripció a Google drive
 
 Tenim dues opcions, pagar mensualment o pagar anualment hem fet uns pressupostos del que sortiria anualment i mensualment i ens surt més a compte pagar l’anual.
-
+[![N|Solid]
