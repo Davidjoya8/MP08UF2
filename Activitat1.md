@@ -18,4 +18,7 @@ Investigant una miqueta m’hos hem donat compte que la millor opció el suscrib
 #### Subscripció a Google drive
 
 Tenim dues opcions, pagar mensualment o pagar anualment hem fet uns pressupostos del que sortiria anualment i mensualment i ens surt més a compte pagar l’anual.
-[![N|Solid]
+[![N|Solid](1.png)](https://nodesource.com/products/nsolid)
+
+Aquest és el pressupost que hem preparat per la subscripció anual i pel disc dur que ens ha trencat. Ens surt més rentable pagar anualment ja que ens aplica un descompte de un 17% que vindrien a ser 20,38€ menys.
+Després he triat aquest disc dur de 2,5 TB de memoria que a calitat preu està molt bé.
